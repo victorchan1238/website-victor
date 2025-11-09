@@ -1,11 +1,10 @@
 img {
-    width: 200px;
+    width: 700px;
 }
-
 body {
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
-    font-family: Arial, sans-serif;
-    background: cadetblue;
-    color: rgb(0, 255, 42);
-}
+    font-family:'arial';
+    background:cadetblue;
+    color:rgb(0, 255, 42);
+}<body id="special-page 2">
