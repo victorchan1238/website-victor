@@ -1,9 +1,11 @@
-Commit to main img {
+img {
     width: 700px;
 }
+
 body {
     font-size: 50px;
     text-align: center;
-    font-family:'arial';
-    background:cadetblue;
-    color:rgb(0, 255, 42);
+    font-family: Arial, sans-serif;
+    background: cadetblue;
+    color: rgb(0, 255, 42);
+}
