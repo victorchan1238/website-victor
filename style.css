@@ -5,15 +5,33 @@ body {
     font-size: 50px;
     text-align: center;
     font-family:'arial';
-    background:cadetblue;
-    color:rgb(0, 255, 42);
-}<body id="special-page 2">
-img {
-    width: 700px;
+    background:rgb(4, 91, 94);
+    color:rgb(12, 238, 98);
 }
-body {
-    font-size: 80px;
-    text-align: center;
-    font-family:'calibri';
-    background:rgb(238, 67, 0);
-    color:rgb(4, 0, 255);
+
+.top-nav {
+    width: 100%;
+    background-color: rgb(87, 75, 192);
+    overflow: hidden;
+    display: flex;
+    justify-content: left;
+    gap: 80px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-nav a {
+    color: rgb(204, 158, 8);
+    padding: 25px 20px;
+    text-decoration: none;
+    font-size: 30px;
+    transition: 0.3s;
+}
+
+.top-nav a:hover {
+    background-color: rgb(203, 101, 203);
+    color: rgb(15, 95, 15);
+    text-decoration: underline;
+}
