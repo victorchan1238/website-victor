@@ -8,6 +8,7 @@ body {
     background:cadetblue;
     color:rgb(0, 255, 42);
 }<body id="special-page 2">
+<<<<<<< HEAD
 img {
     width: 700px;
 }
@@ -17,3 +18,5 @@ body {
     font-family:'calibri';
     background:rgb(238, 67, 0);
     color:rgb(4, 0, 255);
+=======
+>>>>>>> ee68294f82ff1bec8cf1f516ae662723c4ef05e5
